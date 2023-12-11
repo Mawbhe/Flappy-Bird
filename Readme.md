@@ -1,4 +1,4 @@
-#### Project to learn Javascript !
+## Project to learn Javascript !
 
 Building Flappy bird game.
 
