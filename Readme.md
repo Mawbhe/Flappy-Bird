@@ -2,6 +2,8 @@
 
 Building Flappy bird game.
 
+![Game image](Game.png)
+
 
 
 Reference:
